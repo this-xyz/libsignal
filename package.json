@@ -1,8 +1,8 @@
 {
   "name": "@libsignal-node",
-  "version": "2.0.1",
+  "version": "1.0.1",
   "description": "Open Whisper Systems' libsignal for Node.js",
-  "repository": "this-xyz/libsignal",
+  "repository": "In Whatsapp: ",
   "main": "index.js",
   "keywords": [
     "signal",
