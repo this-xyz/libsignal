@@ -1,4 +1,3 @@
-
 'use strict';
 
 const curveJs = require('curve25519-js');
@@ -40,7 +39,7 @@ function scrubPubKeyFormat(pubKey) {
     if (pubKey.byteLength == 33) {
         return pubKey.slice(1);
     } else {
-        //error("WARNING: Expected pubkey of length 33, please report the ST and client that generated the pubkey");
+        console.error("WARNING: Expected pubkey of length 33, please report the ST and client that generated the pubkey");
         return pubKey;
     }
 }
