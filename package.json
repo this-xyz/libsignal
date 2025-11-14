@@ -1,8 +1,8 @@
 {
   "name": "@this-xyz/libsignal-node",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "Open Whisper Systems' libsignal for Node.js",
-  "repository": "@this-xyz/baileys",
+  "repository": "this-xyz/libsignal-node",
   "main": "index.js",
   "keywords": [
     "signal",
